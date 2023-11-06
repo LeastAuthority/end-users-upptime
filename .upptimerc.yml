@@ -58,10 +58,16 @@ sites:
 status-website:
   baseUrl: /end-users-upptime
   logoUrl: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/upptime-icon.svg
-  name: Upptime
+  name: Upptime - End Users
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This site monitor public resources of LA
+  introMessage: This site monitor public resources of Least Authority
   navbar:
+    - title: Org Members
+      href: /org-members-upptime
+    - title: Infrastructure
+      href: /infrastructure-upptime
+    - title: Least Authority
+      href: https://www.leastauthority.com/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
