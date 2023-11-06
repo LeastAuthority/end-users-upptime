@@ -4,8 +4,6 @@ repo: end-users-upptime
 sites:
   - name: Least Authority - website
     url: https://www.leastauthority.com/
-  - name: Private Storage - website
-    url: https://private.storage/
   - name: Winden - website
     url: https://winden.app/
   - name: Magic Wormhole - mailbox
@@ -28,6 +26,33 @@ sites:
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/tahoelafs-icon.png
     check: "tcp-ping"
     url: storage003.deerfield.leastauthority.com
+    port: 8898
+  - name: Private Storage - website
+    url: https://private.storage/
+  - name: Private Storage - storage001
+    icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg
+    check: "tcp-ping"
+    url: storage001.private.storage
+    port: 8898
+  - name: Private Storage - storage002
+    icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg
+    check: "tcp-ping"
+    url: storage002.private.storage
+    port: 8898
+  - name: Private Storage - storage003
+    icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg
+    check: "tcp-ping"
+    url: storage003.private.storage
+    port: 8898
+  - name: Private Storage - storage004
+    icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg
+    check: "tcp-ping"
+    url: storage004.private.storage
+    port: 8898
+  - name: Private Storage - storage005
+    icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg
+    check: "tcp-ping"
+    url: storage005.private.storage
     port: 8898
 
 status-website:
