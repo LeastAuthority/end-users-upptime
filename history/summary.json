@@ -1,9 +1,9 @@
 [
   {
-    "name": "Least Authority",
+    "name": "Least Authority - website",
     "url": "https://www.leastauthority.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.leastauthority.com.ico",
-    "slug": "least-authority",
+    "slug": "least-authority-website",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -18,10 +18,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Private Storage",
+    "name": "Private Storage - website",
     "url": "https://private.storage/",
     "icon": "https://icons.duckduckgo.com/ip3/private.storage.ico",
-    "slug": "private-storage",
+    "slug": "private-storage-website",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -36,10 +36,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Winden",
+    "name": "Winden - website",
     "url": "https://winden.app/",
     "icon": "https://icons.duckduckgo.com/ip3/winden.app.ico",
-    "slug": "winden",
+    "slug": "winden-website",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -54,7 +54,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Magic Wormhole Mailbox",
+    "name": "Magic Wormhole - mailbox",
     "url": "https://mailbox.mw.leastauthority.com/",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/wormhole-icon.png",
     "slug": "magic-wormhole-mailbox",
@@ -72,7 +72,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Magic Wormhole Relay",
+    "name": "Magic Wormhole - relay",
     "url": "https://relay.mw.leastauthority.com/",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/wormhole-icon.png",
     "slug": "magic-wormhole-relay",

@@ -2,16 +2,16 @@ owner: LeastAuthority
 repo: end-users-upptime
 
 sites:
-  - name: Least Authority
+  - name: Least Authority - website
     url: https://www.leastauthority.com/
-  - name: Private Storage
+  - name: Private Storage - website
     url: https://private.storage/
-  - name: Winden
+  - name: Winden - website
     url: https://winden.app/
-  - name: Magic Wormhole Mailbox
+  - name: Magic Wormhole - mailbox
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/wormhole-icon.png
     url: https://mailbox.mw.leastauthority.com/
-  - name: Magic Wormhole Relay
+  - name: Magic Wormhole - relay
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/wormhole-icon.png
     url: https://relay.mw.leastauthority.com/
   - name: HRO Cloud - storage001
