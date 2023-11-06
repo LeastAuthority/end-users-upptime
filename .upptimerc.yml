@@ -60,14 +60,14 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/upptime-icon.svg
   name: End Users
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This site monitor public resources of Least Authority
+  introMessage: This site monitors the public resources provided by Least Authority
   navbar:
+    - title: End Users
+      href: /end-users-upptime
     - title: Org Members
       href: /org-members-upptime
     - title: Infrastructure
       href: /infrastructure-upptime
-    - title: Least Authority
-      href: https://www.leastauthority.com/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
