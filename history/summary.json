@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 508,
     "timeDay": 626,
-    "timeWeek": 502,
+    "timeWeek": 501,
     "timeMonth": 508,
     "timeYear": 508,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 524,
     "timeDay": 616,
-    "timeWeek": 522,
+    "timeWeek": 512,
     "timeMonth": 524,
     "timeYear": 524,
     "dailyMinutesDown": {}
@@ -144,6 +144,26 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Private Storage - payment API",
+    "url": "https://payments.private.storage/",
+    "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg",
+    "slug": "private-storage-payment-api",
+    "status": "up",
+    "uptime": "10.80%",
+    "uptimeDay": "10.80%",
+    "uptimeWeek": "10.80%",
+    "uptimeMonth": "10.80%",
+    "uptimeYear": "10.80%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-11-10": 0
+    }
+  },
+  {
     "name": "Private Storage - storage001",
     "url": "storage001.private.storage",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg",
@@ -185,11 +205,11 @@
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg",
     "slug": "private-storage-storage003",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 129,
     "timeDay": 62,
     "timeWeek": 129,
