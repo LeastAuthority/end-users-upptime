@@ -29,6 +29,9 @@ sites:
     port: 8898
   - name: Private Storage - website
     url: https://private.storage/
+  - name: Private Storage - payment API
+    icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg
+    url: https://payments.private.storage/
   - name: Private Storage - storage001
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg
     check: "tcp-ping"
