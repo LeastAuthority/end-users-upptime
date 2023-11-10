@@ -1,7 +1,7 @@
-url: https://payments.private.storage/
-status: down
-code: 404
-responseTime: 661
-lastUpdated: 2023-11-10T12:16:13.331Z
+url: payments.private.storage
+status: up
+code: 200
+responseTime: 188
+lastUpdated: 2023-11-10T12:24:40.780Z
 startTime: 2023-11-10T12:16:12.345Z
 generator: Upptime <https://github.com/upptime/upptime>
