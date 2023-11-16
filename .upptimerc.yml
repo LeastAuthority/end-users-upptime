@@ -31,10 +31,9 @@ sites:
     url: https://private.storage/
   - name: Private Storage - payment API
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg
-    url: https://payments.private.storage/v1/redeem
-    method: POST
-    expectedStatusCodes:
-      - 415
+    check: "tcp-ping"
+    url: payments.private.storage
+    port: 443
   - name: Private Storage - storage001
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg
     check: "tcp-ping"
