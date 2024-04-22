@@ -307,5 +307,23 @@
     "dailyMinutesDown": {
       "2024-03-12": 7
     }
+  },
+  {
+    "name": "Private Storage - matomo",
+    "url": "https://matomo.private.storage/",
+    "icon": "https://icons.duckduckgo.com/ip3/matomo.private.storage.ico",
+    "slug": "private-storage-matomo",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1261,
+    "timeDay": 1261,
+    "timeWeek": 1261,
+    "timeMonth": 1261,
+    "timeYear": 1261,
+    "dailyMinutesDown": {}
   }
 ]
