@@ -131,11 +131,11 @@
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/tahoelafs-icon.png",
     "slug": "hro-cloud-storage002",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 128,
     "timeDay": 146,
     "timeWeek": 121,
@@ -217,9 +217,9 @@
     "url": "storage001.private.storage",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg",
     "slug": "private-storage-storage001",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -229,6 +229,7 @@
     "timeMonth": 124,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2024-05-08": 0,
       "2024-03-12": 16
     }
   },
