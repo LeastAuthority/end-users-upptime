@@ -179,18 +179,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/private.storage.ico",
     "slug": "private-storage-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 770,
     "timeDay": 934,
     "timeWeek": 708,
     "timeMonth": 703,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2024-05-09": 4
+      "2024-05-09": 15
     }
   },
   {
@@ -219,11 +219,11 @@
     "url": "storage001.private.storage",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg",
     "slug": "private-storage-storage001",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 114,
     "timeDay": 83,
@@ -231,6 +231,7 @@
     "timeMonth": 122,
     "timeYear": 114,
     "dailyMinutesDown": {
+      "2024-05-09": 5,
       "2024-05-08": 9,
       "2024-03-12": 16
     }
@@ -241,18 +242,18 @@
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg",
     "slug": "private-storage-storage002",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 100,
     "timeDay": 70,
     "timeWeek": 115,
     "timeMonth": 111,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2024-05-09": 3,
+      "2024-05-09": 14,
       "2024-04-17": 8
     }
   },
@@ -263,9 +264,9 @@
     "slug": "private-storage-storage003",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 93,
     "timeDay": 94,
@@ -273,7 +274,7 @@
     "timeMonth": 90,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-05-09": 2,
+      "2024-05-09": 13,
       "2023-11-08": 14
     }
   },
@@ -282,10 +283,10 @@
     "url": "storage004.private.storage",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg",
     "slug": "private-storage-storage004",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 72,
@@ -293,7 +294,9 @@
     "timeWeek": 74,
     "timeMonth": 78,
     "timeYear": 72,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-09": 2
+    }
   },
   {
     "name": "Private Storage - storage005",
@@ -301,18 +304,18 @@
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg",
     "slug": "private-storage-storage005",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 61,
     "timeDay": 48,
     "timeWeek": 52,
     "timeMonth": 58,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2024-05-09": 0,
+      "2024-05-09": 12,
       "2024-03-12": 7
     }
   },
@@ -321,18 +324,19 @@
     "url": "https://matomo.private.storage/",
     "icon": "https://icons.duckduckgo.com/ip3/matomo.private.storage.ico",
     "slug": "private-storage-matomo",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 1058,
     "timeDay": 1283,
     "timeWeek": 888,
     "timeMonth": 1058,
     "timeYear": 1058,
     "dailyMinutesDown": {
+      "2024-05-09": 0,
       "2024-04-24": 23
     }
   }
