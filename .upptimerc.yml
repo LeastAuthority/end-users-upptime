@@ -64,8 +64,6 @@ sites:
     check: "tcp-ping"
     url: storage005.private.storage
     port: 8898
-  - name: Private Storage - matomo
-    url: https://matomo.private.storage/
 
 status-website:
   baseUrl: /end-users-upptime
