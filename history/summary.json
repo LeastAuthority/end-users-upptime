@@ -53,9 +53,9 @@
     "url": "https://mailbox.mw.leastauthority.com/",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/wormhole-icon.png",
     "slug": "magic-wormhole-mailbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -64,16 +64,18 @@
     "timeWeek": 477,
     "timeMonth": 548,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   },
   {
     "name": "Magic Wormhole - relay",
     "url": "https://relay.mw.leastauthority.com/",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/wormhole-icon.png",
     "slug": "magic-wormhole-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -82,7 +84,9 @@
     "timeWeek": 430,
     "timeMonth": 548,
     "timeYear": 506,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   },
   {
     "name": "HRO Cloud - payment API",
@@ -232,11 +236,11 @@
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg",
     "slug": "private-storage-storage001",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 98,
     "timeDay": 7,
     "timeWeek": 14,
@@ -346,11 +350,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.private.storage.ico",
     "slug": "private-storage-matomo",
     "status": "up",
-    "uptime": "96.34%",
+    "uptime": "96.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.34%",
+    "uptimeYear": "96.35%",
     "time": 1313,
     "timeDay": 1753,
     "timeWeek": 1598,
