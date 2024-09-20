@@ -53,9 +53,9 @@
     "url": "https://mailbox.mw.leastauthority.com/",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/wormhole-icon.png",
     "slug": "magic-wormhole-mailbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -64,16 +64,18 @@
     "timeWeek": 544,
     "timeMonth": 532,
     "timeYear": 513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-20": 0
+    }
   },
   {
     "name": "Magic Wormhole - relay",
     "url": "https://relay.mw.leastauthority.com/",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/wormhole-icon.png",
     "slug": "magic-wormhole-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -82,7 +84,9 @@
     "timeWeek": 508,
     "timeMonth": 493,
     "timeYear": 505,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-20": 0
+    }
   },
   {
     "name": "HRO Cloud - payment API",
@@ -346,11 +350,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.private.storage.ico",
     "slug": "private-storage-matomo",
     "status": "up",
-    "uptime": "96.73%",
+    "uptime": "96.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.73%",
+    "uptimeYear": "96.75%",
     "time": 1335,
     "timeDay": 1164,
     "timeWeek": 1542,
