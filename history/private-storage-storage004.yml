@@ -1,7 +1,7 @@
 url: storage004.private.storage
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-24T10:28:19.691Z
+status: up
+code: 200
+responseTime: 61
+lastUpdated: 2024-09-24T10:48:07.157Z
 startTime: 2023-11-06T10:35:12.930Z
 generator: Upptime <https://github.com/upptime/upptime>
