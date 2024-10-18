@@ -4,32 +4,36 @@ repo: end-users-upptime
 sites:
   - name: Least Authority - website
     url: https://www.leastauthority.com/
+    __dangerous__body_degraded_if_text_missing: '<title>Home | Least Authority - Privacy Matters</title>'
+    maxRedirects: 0
   - name: Least Authority - redirect
     url: http://leastauthority.com/
-    expectedStatusCodes:
-      - 301
+    __dangerous__body_degraded_if_text_missing: '<title>Home | Least Authority - Privacy Matters</title>'
+    maxRedirects: 1
   - name: Least Authority - de redirect
     url: http://leastauthority.de/
-    expectedStatusCodes:
-      - 302
+    __dangerous__body_degraded_if_text_missing: '<title>Home | Least Authority - Privacy Matters</title>'
+    maxRedirects: 1
   - name: Winden - website
     url: https://winden.app/
+    __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
+    maxRedirects: 0
   - name: Winden - redirect
     url: http://winden.app/
-    expectedStatusCodes:
-      - 301
+    __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
+    maxRedirects: 1
   - name: Winden - it redirect
     url: http://winden.it/
-    expectedStatusCodes:
-      - 301
+    __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
+    maxRedirects: 1
   - name: Winden - me redirect
     url: http://winden.me/
-    expectedStatusCodes:
-      - 301
+    __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
+    maxRedirects: 1
   - name: Winden - tech redirect
     url: http://winden.tech/
-    expectedStatusCodes:
-      - 301
+    __dangerous__body_degraded_if_text_missing: '<title>Winden - secure, fast and easy file transfer'
+    maxRedirects: 1
   - name: Magic Wormhole - mailbox
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/wormhole-icon.png
     url: https://mailbox.mw.leastauthority.com/
@@ -60,35 +64,37 @@ sites:
     port: 8898
   - name: Private Storage - website
     url: https://private.storage/
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 0
   - name: Private Storage - redirect
     url: http://private.storage/
-    expectedStatusCodes:
-      - 301
-  - name: Private Storage - app redirect
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 1
+    - name: Private Storage - app redirect
     url: http://privatestorage.app/
-    expectedStatusCodes:
-      - 303
-  - name: Private Storage - dev redirect
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 1
+    - name: Private Storage - dev redirect
     url: http://privatestorage.dev/
-    expectedStatusCodes:
-      - 303
-  - name: Private Storage - io redirect
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 1
+    - name: Private Storage - io redirect
     url: http://privatestorage.io/
-    expectedStatusCodes:
-      - 301
-  - name: Private Storage - online redirect
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 1
+    - name: Private Storage - online redirect
     url: http://privatestorage.online/
-    expectedStatusCodes:
-      - 302
-  - name: Private Storage - org redirect
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 1
+    - name: Private Storage - org redirect
     url: http://privatestorage.org/
-    expectedStatusCodes:
-      - 303
-  - name: Private Storage - tech redirect
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 1
+    - name: Private Storage - tech redirect
     url: http://privatestorage.tech/
-    expectedStatusCodes:
-      - 303
-  - name: Private Storage - payment API
+    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
+    maxRedirects: 1
+    - name: Private Storage - payment API
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg
     check: "tcp-ping"
     url: payments.private.storage
