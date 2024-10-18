@@ -3,7 +3,7 @@ repo: end-users-upptime
 
 sites:
   - name: Least Authority - website
-    url: https://www.leastauthority.com/
+    url: https://leastauthority.com/
     __dangerous__body_degraded_if_text_missing: '<title>Home | Least Authority - Privacy Matters</title>'
     maxRedirects: 0
 
