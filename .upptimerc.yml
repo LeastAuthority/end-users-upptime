@@ -4,14 +4,40 @@ repo: end-users-upptime
 sites:
   - name: Least Authority - website
     url: https://www.leastauthority.com/
+  - name: Least Authority - redirect
+    url: http://leastauthority.com/
+    expectedStatusCodes:
+      - 301
+  - name: Least Authority - de redirect
+    url: http://leastauthority.de/
+    expectedStatusCodes:
+      - 302
   - name: Winden - website
     url: https://winden.app/
+  - name: Winden - redirect
+    url: http://winden.app/
+    expectedStatusCodes:
+      - 301
+  - name: Winden - it redirect
+    url: http://winden.it/
+    expectedStatusCodes:
+      - 301
+  - name: Winden - me redirect
+    url: http://winden.me/
+    expectedStatusCodes:
+      - 301
+  - name: Winden - tech redirect
+    url: http://winden.tech/
+    expectedStatusCodes:
+      - 301
   - name: Magic Wormhole - mailbox
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/wormhole-icon.png
     url: https://mailbox.mw.leastauthority.com/
   - name: Magic Wormhole - relay
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/wormhole-icon.png
     url: https://relay.mw.leastauthority.com/
+  - name: CDR Link - helpdesk support
+    url: https://leastauthority.cdr.link/
   - name: HRO Cloud - payment API
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/tahoelafs-icon.png
     check: "tcp-ping"
@@ -34,6 +60,34 @@ sites:
     port: 8898
   - name: Private Storage - website
     url: https://private.storage/
+  - name: Private Storage - redirect
+    url: http://private.storage/
+    expectedStatusCodes:
+      - 301
+  - name: Private Storage - app redirect
+    url: http://privatestorage.app/
+    expectedStatusCodes:
+      - 303
+  - name: Private Storage - dev redirect
+    url: http://privatestorage.dev/
+    expectedStatusCodes:
+      - 303
+  - name: Private Storage - io redirect
+    url: http://privatestorage.io/
+    expectedStatusCodes:
+      - 301
+  - name: Private Storage - online redirect
+    url: http://privatestorage.online/
+    expectedStatusCodes:
+      - 302
+  - name: Private Storage - org redirect
+    url: http://privatestorage.org/
+    expectedStatusCodes:
+      - 303
+  - name: Private Storage - tech redirect
+    url: http://privatestorage.tech/
+    expectedStatusCodes:
+      - 303
   - name: Private Storage - payment API
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg
     check: "tcp-ping"
