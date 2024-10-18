@@ -100,7 +100,7 @@ sites:
   - name: Private Storage - io redirect
     url: http://privatestorage.io/
     __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
-    maxRedirects: 1
+    maxRedirects: 2
 
   - name: Private Storage - online redirect
     url: http://privatestorage.online/
