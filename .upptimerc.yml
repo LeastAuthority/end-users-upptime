@@ -50,9 +50,6 @@ sites:
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/wormhole-icon.png
     url: https://relay.mw.leastauthority.com/
 
-  - name: CDR Link - helpdesk support
-    url: https://leastauthority.cdr.link/
-
   - name: HRO Cloud - payment API
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/tahoelafs-icon.png
     check: "tcp-ping"
