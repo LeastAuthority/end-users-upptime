@@ -1,7 +1,7 @@
 url: http://privatestorage.dev/
-status: degraded
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-19T07:36:37.611Z
+status: up
+code: 200
+responseTime: 333
+lastUpdated: 2024-10-19T07:45:18.864Z
 startTime: 2024-10-18T09:00:42.990Z
 generator: Upptime <https://github.com/upptime/upptime>
