@@ -84,18 +84,6 @@ sites:
     __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
     maxRedirects: 1
 
-  - name: Private Storage - app redirect
-    url: http://privatestorage.app/
-    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
-    maxRedirects: 1
-    verbose: true
-
-  - name: Private Storage - dev redirect
-    url: http://privatestorage.dev/
-    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
-    maxRedirects: 1
-    verbose: true
-
   - name: Private Storage - io redirect
     url: http://privatestorage.io/
     __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
@@ -105,18 +93,6 @@ sites:
     url: http://privatestorage.online/
     __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
     maxRedirects: 1
-
-  - name: Private Storage - org redirect
-    url: http://privatestorage.org/
-    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
-    maxRedirects: 1
-    verbose: true
-
-  - name: Private Storage - tech redirect
-    url: http://privatestorage.tech/
-    __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
-    maxRedirects: 1
-    verbose: true
 
   - name: Private Storage - payment API
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg
