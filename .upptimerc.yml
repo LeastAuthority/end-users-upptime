@@ -50,30 +50,6 @@ sites:
     icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/wormhole-icon.png
     url: https://relay.mw.leastauthority.com/
 
-  - name: HRO Cloud - payment API
-    icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/tahoelafs-icon.png
-    check: "tcp-ping"
-    url: payments.deerfield.leastauthority.com
-    port: 443
-
-  - name: HRO Cloud - storage001
-    icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/tahoelafs-icon.png
-    check: "tcp-ping"
-    url: storage001.deerfield.leastauthority.com
-    port: 8898
-
-  - name: HRO Cloud - storage002
-    icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/tahoelafs-icon.png
-    check: "tcp-ping"
-    url: storage002.deerfield.leastauthority.com
-    port: 8898
-
-  - name: HRO Cloud - storage003
-    icon: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/tahoelafs-icon.png
-    check: "tcp-ping"
-    url: storage003.deerfield.leastauthority.com
-    port: 8898
-
   - name: Private Storage - website
     url: https://private.storage/
     __dangerous__body_degraded_if_text_missing: '<title>PrivateStorage | Private &amp; Secure Cloud Storage</title>'
@@ -135,7 +111,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/upptime-icon.svg
   name: End Users
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by [GitHub](https://github.com/LeastAuthority/end-users-upptime)."
-  introMessage: This site monitors the resources provided to end users of [Least Authority](https://leastauthority.com/) products and services.
+  introMessage: This site monitors the availability of the products and services provided to the end users of [Least Authority](https://leastauthority.com/).
   navbar:
     - title: End Users
       href: /end-users-upptime
