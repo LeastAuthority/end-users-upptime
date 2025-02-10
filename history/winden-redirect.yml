@@ -1,7 +1,7 @@
 url: http://winden.app/
-status: up
-code: 200
-responseTime: 74
-lastUpdated: 2025-02-09T23:02:33.521Z
+status: degraded
+code: 404
+responseTime: 10006
+lastUpdated: 2025-02-10T02:40:24.011Z
 startTime: 2024-10-18T09:00:23.321Z
 generator: Upptime <https://github.com/upptime/upptime>
