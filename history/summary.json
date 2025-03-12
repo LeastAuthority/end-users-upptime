@@ -135,7 +135,7 @@
     "url": "http://winden.it/",
     "icon": "https://icons.duckduckgo.com/ip3/winden.it.ico",
     "slug": "winden-it-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
