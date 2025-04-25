@@ -47,7 +47,7 @@
     "url": "http://leastauthority.de/",
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.de.ico",
     "slug": "least-authority-de-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "93.36%",
     "uptimeDay": "92.63%",
     "uptimeWeek": "98.55%",
