@@ -107,7 +107,7 @@ sites:
     port: 8898
 
   - name: Phreeli - mix1
-    url: https://mix1.phreeli.latfa.net/mix/health
+    url: $URL_PHREELIMIX_LA1
     __dangerous__body_degraded_if_text_missing: '"status":"ok"'
 
 status-website:
