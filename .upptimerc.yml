@@ -106,10 +106,6 @@ sites:
     url: storage005.private.storage
     port: 8898
 
-  - name: Phreeli - mix1
-    url: $URL_PHREELIMIX_LA1
-    __dangerous__body_degraded_if_text_missing: '"status":"ok"'
-
 status-website:
   baseUrl: /end-users-upptime
   logoUrl: https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/upptime-icon.svg
