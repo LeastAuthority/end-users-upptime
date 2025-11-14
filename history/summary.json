@@ -12,7 +12,7 @@
     "uptimeYear": "99.83%",
     "time": 1005,
     "timeDay": 1171,
-    "timeWeek": 933,
+    "timeWeek": 960,
     "timeMonth": 910,
     "timeYear": 911,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
     "uptimeYear": "99.99%",
     "time": 596,
     "timeDay": 797,
-    "timeWeek": 671,
+    "timeWeek": 675,
     "timeMonth": 639,
     "timeYear": 595,
     "dailyMinutesDown": {
@@ -47,17 +47,17 @@
     "url": "http://leastauthority.de/",
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.de.ico",
     "slug": "least-authority-de-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "96.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 698,
-    "timeDay": 642,
-    "timeWeek": 579,
-    "timeMonth": 574,
-    "timeYear": 705,
+    "time": 696,
+    "timeDay": 440,
+    "timeWeek": 540,
+    "timeMonth": 564,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2025-05-05": 13,
       "2025-04-25": 105,
@@ -81,7 +81,7 @@
     "uptimeYear": "99.97%",
     "time": 446,
     "timeDay": 858,
-    "timeWeek": 626,
+    "timeWeek": 636,
     "timeMonth": 617,
     "timeYear": 488,
     "dailyMinutesDown": {
@@ -103,7 +103,7 @@
     "uptimeYear": "99.97%",
     "time": 315,
     "timeDay": 495,
-    "timeWeek": 425,
+    "timeWeek": 434,
     "timeMonth": 409,
     "timeYear": 334,
     "dailyMinutesDown": {
@@ -125,7 +125,7 @@
     "uptimeYear": "99.71%",
     "time": 744,
     "timeDay": 1400,
-    "timeWeek": 1122,
+    "timeWeek": 1155,
     "timeMonth": 1079,
     "timeYear": 790,
     "dailyMinutesDown": {
@@ -159,7 +159,7 @@
     "uptimeYear": "99.71%",
     "time": 659,
     "timeDay": 1230,
-    "timeWeek": 1075,
+    "timeWeek": 1109,
     "timeMonth": 1063,
     "timeYear": 697,
     "dailyMinutesDown": {
@@ -193,7 +193,7 @@
     "uptimeYear": "99.95%",
     "time": 619,
     "timeDay": 1088,
-    "timeWeek": 1042,
+    "timeWeek": 1077,
     "timeMonth": 958,
     "timeYear": 661,
     "dailyMinutesDown": {
@@ -217,7 +217,7 @@
     "uptimeYear": "100.00%",
     "time": 582,
     "timeDay": 1070,
-    "timeWeek": 846,
+    "timeWeek": 866,
     "timeMonth": 721,
     "timeYear": 603,
     "dailyMinutesDown": {
@@ -237,7 +237,7 @@
     "uptimeYear": "100.00%",
     "time": 571,
     "timeDay": 736,
-    "timeWeek": 738,
+    "timeWeek": 760,
     "timeMonth": 707,
     "timeYear": 586,
     "dailyMinutesDown": {
@@ -257,7 +257,7 @@
     "uptimeYear": "95.04%",
     "time": 903,
     "timeDay": 2295,
-    "timeWeek": 1268,
+    "timeWeek": 1237,
     "timeMonth": 928,
     "timeYear": 933,
     "dailyMinutesDown": {
@@ -295,7 +295,7 @@
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 313,
-    "timeWeek": 311,
+    "timeWeek": 328,
     "timeMonth": 227,
     "timeYear": 219,
     "dailyMinutesDown": {}
@@ -313,7 +313,7 @@
     "uptimeYear": "100.00%",
     "time": 434,
     "timeDay": 502,
-    "timeWeek": 475,
+    "timeWeek": 479,
     "timeMonth": 391,
     "timeYear": 434,
     "dailyMinutesDown": {}
@@ -331,7 +331,7 @@
     "uptimeYear": "99.97%",
     "time": 563,
     "timeDay": 587,
-    "timeWeek": 439,
+    "timeWeek": 456,
     "timeMonth": 501,
     "timeYear": 575,
     "dailyMinutesDown": {
@@ -357,7 +357,7 @@
     "uptimeYear": "100.00%",
     "time": 116,
     "timeDay": 140,
-    "timeWeek": 118,
+    "timeWeek": 122,
     "timeMonth": 113,
     "timeYear": 116,
     "dailyMinutesDown": {}
@@ -368,14 +368,14 @@
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg",
     "slug": "private-storage-storage001",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
     "timeDay": 61,
-    "timeWeek": 38,
+    "timeWeek": 42,
     "timeMonth": 31,
     "timeYear": 31,
     "dailyMinutesDown": {
@@ -395,7 +395,7 @@
     "uptimeYear": "99.62%",
     "time": 45,
     "timeDay": 9,
-    "timeWeek": 36,
+    "timeWeek": 32,
     "timeMonth": 42,
     "timeYear": 44,
     "dailyMinutesDown": {
@@ -417,7 +417,7 @@
     "uptimeYear": "99.62%",
     "time": 43,
     "timeDay": 10,
-    "timeWeek": 36,
+    "timeWeek": 33,
     "timeMonth": 42,
     "timeYear": 43,
     "dailyMinutesDown": {
@@ -439,7 +439,7 @@
     "uptimeYear": "99.96%",
     "time": 37,
     "timeDay": 51,
-    "timeWeek": 41,
+    "timeWeek": 42,
     "timeMonth": 38,
     "timeYear": 37,
     "dailyMinutesDown": {
@@ -459,7 +459,7 @@
     "uptimeYear": "100.00%",
     "time": 32,
     "timeDay": 60,
-    "timeWeek": 37,
+    "timeWeek": 41,
     "timeMonth": 30,
     "timeYear": 31,
     "dailyMinutesDown": {
