@@ -320,7 +320,7 @@
     "url": "http://privatestorage.online/",
     "icon": "https://icons.duckduckgo.com/ip3/privatestorage.online.ico",
     "slug": "private-storage-online-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
