@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.de.ico",
     "slug": "least-authority-de-redirect",
     "status": "up",
-    "uptime": "97.26%",
+    "uptime": "97.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -406,10 +406,10 @@
     "url": "storage003.private.storage",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg",
     "slug": "private-storage-storage003",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 42,
@@ -418,6 +418,7 @@
     "timeMonth": 39,
     "timeYear": 41,
     "dailyMinutesDown": {
+      "2026-01-21": 1,
       "2025-03-15": 691,
       "2025-03-14": 1065
     }
