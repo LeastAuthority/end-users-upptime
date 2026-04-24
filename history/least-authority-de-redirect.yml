@@ -1,7 +1,7 @@
 url: http://leastauthority.de/
-status: degraded
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-24T17:26:46.866Z
+status: up
+code: 200
+responseTime: 399
+lastUpdated: 2026-04-24T17:49:02.600Z
 startTime: 2024-10-18T09:00:19.805Z
 generator: Upptime <https://github.com/upptime/upptime>
