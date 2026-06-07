@@ -290,10 +290,10 @@
     "url": "payments.private.storage",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg",
     "slug": "private-storage-payment-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
@@ -301,7 +301,9 @@
     "timeWeek": 130,
     "timeMonth": 117,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-07": 1
+    }
   },
   {
     "name": "Private Storage - storage001",
