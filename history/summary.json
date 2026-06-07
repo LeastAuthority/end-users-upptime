@@ -199,7 +199,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/private.storage.ico",
     "slug": "private-storage-website",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -290,19 +290,19 @@
     "url": "payments.private.storage",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/end-users-upptime/master/assets/private-storage-icon.svg",
     "slug": "private-storage-payment-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
     "time": 118,
-    "timeDay": 106,
-    "timeWeek": 130,
-    "timeMonth": 117,
+    "timeDay": 100,
+    "timeWeek": 125,
+    "timeMonth": 116,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2026-06-07": 1
+      "2026-06-07": 89
     }
   },
   {
