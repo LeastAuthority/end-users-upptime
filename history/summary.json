@@ -50,22 +50,22 @@
     "url": "http://leastauthority.de/",
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.de.ico",
     "slug": "least-authority-de-redirect",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.12%",
-    "uptimeDay": "96.19%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
-    "time": 917,
-    "timeDay": 3312,
-    "timeWeek": 7602,
-    "timeMonth": 3559,
-    "timeYear": 970,
+    "time": 919,
+    "timeDay": 2993,
+    "timeWeek": 7149,
+    "timeMonth": 3506,
+    "timeYear": 972,
     "dailyMinutesDown": {
       "2026-08-08": 2,
       "2026-08-16": 11,
       "2026-08-18": 10,
-      "2026-08-19": 44
+      "2026-08-19": 51
     }
   },
   {
